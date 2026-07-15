@@ -1,0 +1,13 @@
+state,threshold,normalization_variant,n_qualifying_facilities,pct_qualifying
+Washington,3,phone_key_upstream (PRIMARY),50,1.4
+Washington,3,phone_digits_only_no_upstream_exclusion (SENSITIVITY),53,1.5
+Washington,3,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",53,1.5
+Washington,3,phone_digits_only_cleaned (SENSITIVITY),53,1.5
+Washington,3,address_strict,0,0.0
+Washington,3,address_lenient,0,0.0
+Oregon,2,phone_key_upstream (PRIMARY),101,12.8
+Oregon,2,phone_digits_only_no_upstream_exclusion (SENSITIVITY),101,12.8
+Oregon,2,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",101,12.8
+Oregon,2,phone_digits_only_cleaned (SENSITIVITY),101,12.8
+Oregon,2,address_strict,59,7.4
+Oregon,2,address_lenient,71,9.0

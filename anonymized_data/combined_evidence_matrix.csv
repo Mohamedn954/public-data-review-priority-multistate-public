@@ -1,0 +1,21 @@
+RF_ID,Indicator,WA_Status,OR_Status,Combined_Status
+RF-01,Rapid provider/facility growth,Testable (program/sector level),"Publicly Testable, Not Completed","Publicly Testable, Not Completed"
+RF-02,Spending growth disconnected from beneficiary growth,Testable (program level),Contextually Assessed,Partially Operationalized
+RF-03,Multi-entity/multi-facility operator concentration,Partially Testable,Partially Operationalized,Partially Operationalized
+RF-04,Geographic concentration or out-of-state operator,Partially Testable,"Publicly Testable, Not Completed","Publicly Testable, Not Completed"
+RF-05,Incomplete administrative or enrollment data,Not Publicly Testable,Partially Operationalized,Partially Operationalized
+RF-06,Excluded party involvement or linkage gap,Partially Testable,"Publicly Testable, Not Completed",Partially Operationalized
+RF-07,Concealed or opaque ownership / related-party control,Partially Testable,"Publicly Testable, Not Completed","Publicly Testable, Not Completed"
+RF-08,"Shared address, phone, or network (network-cluster threshold)",Testable (proxy),Operationalized; recalibration required,Directly Operationalized
+RF-09,"Phantom, mailbox, or questionable address",Partially Testable,Contextually Assessed,Contextually Assessed
+RF-10,Impossible hours or overlapping services,Not Publicly Testable,Internal Data Required,Internal Data Required
+RF-11,Maximum-unit or implausible service-volume billing,Not Publicly Testable,Internal Data Required,Internal Data Required
+RF-12,Out-of-state or impossible-location billing,Not Publicly Testable,Case Supported,Case-Level Evidence
+RF-13,"Billing after death, absence, discharge, or ineligibility",Not Publicly Testable,Internal Data Required,Internal Data Required
+RF-14,"Cloned, missing, or fabricated documentation",Not Publicly Testable,Case Supported,Case-Level Evidence
+RF-15,Stolen credentials or unauthorized professional IDs,Not Publicly Testable,Not Established,Internal Data Required; Not Established
+RF-16,Frontline referrals not acted upon or poorly triaged,Partially Testable,System Supported,System-Level Evidence
+RF-17,"Payment holds, restrictions, suspensions, enhanced oversight, sanctions, exclusions, or enforcement history",Partially Testable,Partially Operationalized,Directly Operationalized
+RF-18,Reactive oversight and insufficient capacity,Fully Testable,System Supported,System-Level Evidence
+RF-19,Program design vulnerability,Testable (qualitative),Contextually Assessed,Contextually Assessed
+RF-20,Unresolved audit findings or weak corrective-action follow-through,Fully Testable,System Supported,System-Level Evidence

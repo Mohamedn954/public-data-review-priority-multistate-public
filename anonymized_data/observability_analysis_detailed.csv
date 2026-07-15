@@ -1,0 +1,17 @@
+state,dimension,n_facilities,n_total,pct
+Washington,Any public record (Has_Public_Reports),2170,3457,62.8
+Washington,Has inspection record(s),1972,3457,57.0
+Washington,Has complaint/investigation record(s),586,3457,17.0
+Washington,Has enforcement record(s),165,3457,4.8
+Washington,Has civil-fine record(s),141,3457,4.1
+Washington,Has a usable access date,3457,3457,100.0
+Washington,Has a usable latest-activity year,2170,3457,62.8
+Washington,Has a multi-year documented record window,1609,3457,46.5
+Oregon,Any public record (Has_Public_Reports),674,792,85.1
+Oregon,Has inspection record(s),656,792,82.8
+Oregon,Has complaint/investigation record(s),221,792,27.9
+Oregon,Has enforcement record(s),149,792,18.8
+Oregon,Has civil-fine record(s),1,792,0.1
+Oregon,Has a usable access date,792,792,100.0
+Oregon,Has a usable latest-activity year,0,792,0.0
+Oregon,Has a multi-year documented record window,0,792,0.0

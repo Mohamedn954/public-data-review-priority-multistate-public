@@ -1,0 +1,26 @@
+section,state,threshold,linkage_type,n_qualifying_facilities,n_total_facilities_in_stratum,pct_qualifying,facility_type
+State-level phone-linkage sweep (successor to Appendix A),,,,,,,
+,Washington,2,phone,164,3457,4.7,
+,Washington,3,phone,50,3457,1.4,
+,Washington,4,phone,20,3457,0.6,
+,Washington,5,phone,0,3457,0.0,
+,Oregon,2,phone,101,792,12.8,
+,Oregon,3,phone,5,792,0.6,
+,Oregon,4,phone,5,792,0.6,
+,Oregon,5,phone,5,792,0.6,
+Oregon facility-type breakdown at threshold 2 vs 3 (phone linkage) - population-validity finding,,,,,,,
+,Oregon,2,phone,22,629,3.5,AFH
+,Oregon,3,phone,0,629,0.0,AFH
+,Oregon,2,phone,33,60,55.0,ALF
+,Oregon,3,phone,0,60,0.0,ALF
+,Oregon,2,phone,3,22,13.6,NF
+,Oregon,3,phone,0,22,0.0,NF
+,Oregon,2,phone,43,81,53.1,RCF
+,Oregon,3,phone,5,81,6.2,RCF
+"Linkage-type comparison at each state's calibrated threshold (WA=3, OR-recalibrated=2)",,,,,,,
+,Washington,3,phone,50,3457,1.4,
+,Washington,3,address,0,3457,0.0,
+,Washington,3,combined,50,3457,1.4,
+,Oregon,2,phone,101,792,12.8,
+,Oregon,2,address,59,792,7.4,
+,Oregon,2,combined,110,792,13.9,

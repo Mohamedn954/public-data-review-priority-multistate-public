@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this manuscript or replication package, please cite it as below."
+title: "Transparent Public-Data Prioritization for Medicaid Long-Term-Care Oversight: Evidence From Two States"
+type: dataset
+authors:
+  - family-names: Hussein
+    given-names: Mohamed Noor
+date-released: 2026-07-17
+version: "3.0"
+repository-code: "https://github.com/Mohamedn954/public-data-review-priority-multistate-public"
+license: CC-BY-4.0
+keywords:
+  - Medicaid program integrity
+  - Adult Family Homes
+  - home and community-based services
+  - public administrative data
+  - program-integrity transparency
+  - cross-state policy transfer
+  - long-term care oversight
+  - risk-based auditing
+  - evidentiary validity
+abstract: >
+  A self-contained replication package testing whether a disclosed
+  public-data method can provide a reproducible first layer of Medicaid
+  long-term-care review prioritization. An initial 20-indicator taxonomy,
+  generated from three documents spanning two Minnesota documentary
+  lineages, was audited for source support (including an independent
+  human second-coder reliability check, 59.1% raw agreement), tested
+  against a prespecified external corroboration search across federal
+  agencies and five comparison states, and applied to Washington's Adult
+  Family Homes (n = 3,457) and Oregon's four licensed care types (n =
+  792), evaluated across six validity dimensions: source, content,
+  measurement, population, threshold, and predictive. Includes
+  de-identified facility-level data from both companion state analyses,
+  the full RF specification registry and federal/external corroboration
+  crosswalk, threshold-sensitivity, cluster-corroboration, and exploratory
+  cluster-enforcement analyses, a claim-by-claim provenance map, and an
+  independent verification script covering 77 checks. This is a
+  methods-transparency and evidentiary-boundary study, not a fraud score,
+  validated predictive model, or enforcement tool. Predictive validity is
+  not established for any indicator.

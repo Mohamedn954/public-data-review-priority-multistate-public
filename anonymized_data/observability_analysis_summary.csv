@@ -1,0 +1,9 @@
+metric,state,n_facilities,n_total,pct
+No public record at all (external analyst cannot observe this facility),Washington,1287,3457,37.2
+No public record at all (external analyst cannot observe this facility),Oregon,118,792,14.9
+Has inspection record(s),Washington,1972,3457,57.0
+Has complaint/investigation record(s),Washington,586,3457,17.0
+Has enforcement record(s),Washington,165,3457,4.8
+Has inspection record(s),Oregon,656,792,82.8
+Has complaint/investigation record(s),Oregon,221,792,27.9
+Has enforcement record(s),Oregon,149,792,18.8

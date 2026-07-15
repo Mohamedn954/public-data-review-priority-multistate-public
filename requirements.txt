@@ -1,0 +1,7 @@
+# Pinned/bounded dependencies for scripts/ in this repository.
+# All other imports used by these scripts (csv, os, re, sys, collections) are
+# Python 3 standard library and require no installation.
+#
+# Tested against Python 3.9.6.
+
+matplotlib>=3.7,<4.0

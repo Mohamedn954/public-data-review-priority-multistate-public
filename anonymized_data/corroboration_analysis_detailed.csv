@@ -1,0 +1,122 @@
+state,cluster_id,n_facilities,corroboration_result,evidence_class,total_enforcement,total_investigations,total_civil_fines
+Washington,OP001,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP002,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,0,0
+Washington,OP003,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),1,1,1
+Washington,OP004,4,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,0,0
+Washington,OP005,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,0,0
+Washington,OP006,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP007,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP008,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),3,2,0
+Washington,OP009,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,0,0
+Washington,OP010,3,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP011,3,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP012,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP013,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP014,3,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP015,3,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,0,0
+Washington,OP016,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP017,4,Corroborated,Same officers/owners/managers,3,2,3
+Washington,OP018,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,0,0
+Washington,OP019,3,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),2,2,2
+Washington,OP020,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP021,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,0,0
+Washington,OP022,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,1,0
+Washington,OP023,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP024,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP025,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,0,0
+Washington,OP026,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,1,0
+Washington,OP027,3,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP028,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,1,0
+Washington,OP029,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP030,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),1,0,1
+Washington,OP031,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP032,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP033,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,1,0
+Washington,OP034,2,Uncorroborated,No public connection found,0,0,0
+Washington,OP035,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,1,0
+Washington,OP036,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP037,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP038,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,1,0
+Washington,OP039,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,0,0
+Washington,OP040,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP041,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,2,0
+Washington,OP042,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP043,4,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP044,2,Corroborated,Same residential or business address,0,0,0
+Washington,OP045,3,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,2,0
+Washington,OP046,4,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,3,0
+Washington,OP047,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP048,3,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),2,1,2
+Washington,OP049,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP050,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),3,1,0
+Washington,OP051,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP052,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP053,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP054,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP055,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP056,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP057,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP058,3,Corroborated,Same officers/owners/managers,0,2,0
+Washington,OP059,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP060,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP061,3,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP062,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,2,0
+Washington,OP063,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP064,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,2,0
+Washington,OP065,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP066,2,Uncorroborated,No public connection found,0,0,0
+Washington,OP067,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP068,4,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP069,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,0,0
+Washington,OP070,2,Corroborated,Same officers/owners/managers,0,0,0
+Washington,OP071,2,Corroborated,Same contact/administrative link (WA-specific category; underlying research did not further specify officer vs. address),0,1,0
+Washington,OP072,2,Corroborated,Same residential or business address (WA data does not distinguish individual vs. commercial registered agent),0,1,0
+Oregon,OR-CL-01,5,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-02,2,Corroborated,Same officers/owners/managers,,,
+Oregon,OR-CL-03,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-04,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-05,2,Not corroborated,No public connection found,,,
+Oregon,OR-CL-06,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-07,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-08,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-09,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-10,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-11,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-12,2,Corroborated,Same officers/owners/managers,,,
+Oregon,OR-CL-13,2,Corroborated,Same officers/owners/managers,,,
+Oregon,OR-CL-14,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-15,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-16,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-17,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-18,2,Corroborated,Same residential or business address,,,
+Oregon,OR-CL-19,2,Corroborated,Same residential or business address,,,
+Oregon,OR-CL-20,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-21,2,Corroborated,Same officers/owners/managers,,,
+Oregon,OR-CL-22,2,Corroborated,Same legal entity,,,
+Oregon,OR-CL-23,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-24,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-25,2,Corroborated,Same officers/owners/managers,,,
+Oregon,OR-CL-26,2,Corroborated,Same officers/owners/managers,,,
+Oregon,OR-CL-27,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-28,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-29,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-30,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-31,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-32,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-33,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-34,2,Indeterminate,Indeterminate,,,
+Oregon,OR-CL-35,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-36,2,Corroborated,Same officers/owners/managers,,,
+Oregon,OR-CL-37,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-38,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-39,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-40,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-41,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-42,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-43,2,Corroborated,Same officers/owners/managers,,,
+Oregon,OR-CL-44,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-45,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-46,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-47,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-48,2,Corroborated,Same openly disclosed brand,,,
+Oregon,OR-CL-49,2,Corroborated,Same openly disclosed brand,,,

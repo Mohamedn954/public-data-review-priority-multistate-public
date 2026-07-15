@@ -1,0 +1,11 @@
+metric,state,n_total_clusters,n_corroborated,n_not_corroborated,n_indeterminate,pct_corroborated,evidence_class,n_clusters,pct_of_all_clusters,corroboration_status,n_with_enforcement,pct_with_enforcement,n_with_investigations,pct_with_investigations
+cluster corroboration rate,Washington,72,70,2,0,97.2,,,,,,,,
+cluster corroboration rate,Oregon,49,47,1,1,95.9,,,,,,,,
+Oregon evidence-class breakdown,Oregon,,,,,,Indeterminate,1,2.0,,,,,
+Oregon evidence-class breakdown,Oregon,,,,,,No public connection found,1,2.0,,,,,
+Oregon evidence-class breakdown,Oregon,,,,,,Same legal entity,1,2.0,,,,,
+Oregon evidence-class breakdown,Oregon,,,,,,Same officers/owners/managers,8,16.3,,,,,
+Oregon evidence-class breakdown,Oregon,,,,,,Same openly disclosed brand,36,73.5,,,,,
+Oregon evidence-class breakdown,Oregon,,,,,,Same residential or business address,2,4.1,,,,,
+WA enforcement/investigation prevalence by corroboration status,Washington,,,,,,,70,,Corroborated,7,10.0,20,28.6
+WA enforcement/investigation prevalence by corroboration status,Washington,,,,,,,2,,Uncorroborated,0,0.0,0,0.0

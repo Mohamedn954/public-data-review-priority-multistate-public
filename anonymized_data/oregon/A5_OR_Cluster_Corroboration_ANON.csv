@@ -1,0 +1,50 @@
+cluster_id,n_facilities,facility_type,shared_contact_type,evidence_class,relationship_type,corroboration_result,confidence,uncertainty_note
+OR-CL-01,5,AFH/ALF (mixed),phone,Same openly disclosed brand,Common brand disclosed in facility names,Corroborated,High,"The manuscript's own previously-identified 5-facility Tier B cluster (Supplementary Appendix A) - openly branded, not concealed"
+OR-CL-02,2,AFH,phone,Same officers/owners/managers,Same individual is registered agent of 3 LLCs (2 sharing an address) - relationship not evident from facility names,Corroborated,High,Control-related corroboration
+OR-CL-03,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-04,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-05,2,AFH,phone,No public connection found,No public entity/address/officer connection found between the two operators,Not corroborated,Medium-High,"Not corroborated does not mean proven unrelated - both are real, separately registered operators; the reason they share a phone is not documented in public records"
+OR-CL-06,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-07,2,Memory Care/Senior Living,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-08,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-09,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-10,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-11,2,Memory Care/Senior Living,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-12,2,Residential Care,phone,Same officers/owners/managers,Same authorized representative across two assumed business names (also shares an address) - relationship not evident from facility names,Corroborated,High,Control-related corroboration
+OR-CL-13,2,Residential/Senior Living,phone,Same officers/owners/managers,Same authorized representative across two assumed business names (also shares an address) - relationship not evident from facility names at all (no shared naming convention),Corroborated,High,"Second-pass closure: individually queried after being deferred in the first pass. Control-related corroboration."
+OR-CL-14,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-15,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-16,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-17,2,Memory Care/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-18,2,AFH,phone,Same residential or business address,"Common address linking two individuals' otherwise differently-named LLCs (different family names; no shared officer between the two individuals) - administrative linkage, not evidence of common ownership or control",Corroborated,High,Address-only corroboration - deliberately not classified as control-related
+OR-CL-19,2,AFH,phone,Same residential or business address,"Common address linking two individuals' otherwise differently-named LLCs, plus a near-identical business-naming convention - administrative linkage, not evidence of common ownership or control",Corroborated,High,Address-only corroboration - deliberately not classified as control-related
+OR-CL-20,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-21,2,AFH,phone,Same officers/owners/managers,Same individual confirmed via business registry,Corroborated,Medium-High,Control-related corroboration
+OR-CL-22,2,AFH,phone,Same legal entity,One facility name IS the other's registered agent - direct legal-entity identity,Corroborated,High,Strongest possible corroboration category
+OR-CL-23,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-24,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-25,2,AFH,phone,Same officers/owners/managers,Same individual confirmed via business registry,Corroborated,High,Control-related corroboration
+OR-CL-26,2,AFH,phone,Same officers/owners/managers,Same individual confirmed via business registry (family entities at one address),Corroborated,High,Control-related corroboration
+OR-CL-27,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-28,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-29,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-30,2,Memory Care/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-31,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-32,2,ALF/Senior Living,phone,Same openly disclosed brand,Common brand (data quality note: source facility names garbled),Corroborated,Medium,Source licensing data had garbled/truncated facility-name fields for this pair
+OR-CL-33,2,ALF/Enhanced Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-34,2,AFH,phone,Indeterminate,"No confident entity match - surname too common (150+ unrelated registry entries share this surname)",Indeterminate,Low,"Distinct from ""not corroborated"" - the search could not confidently resolve identity either way given surname commonality"
+OR-CL-35,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-36,2,AFH,phone,Same officers/owners/managers,"Same individual confirmed via business registry (2 LLCs, same address)",Corroborated,High,Control-related corroboration
+OR-CL-37,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-38,2,Memory Care/Senior Living,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-39,2,RCF/RCF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-40,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-41,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-42,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-43,2,AFH,phone,Same officers/owners/managers,Same individual confirmed via business registry,Corroborated,Medium-High,Control-related corroboration
+OR-CL-44,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-45,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-46,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-47,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-48,2,ALF/ALF,phone,Same openly disclosed brand,Common brand,Corroborated,High,None
+OR-CL-49,2,ALF/Memory Care,phone,Same openly disclosed brand,Common brand,Corroborated,High,None

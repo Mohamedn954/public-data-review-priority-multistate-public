@@ -1,0 +1,49 @@
+state,normalization_variant,threshold,n_qualifying_facilities,n_total_facilities,pct_qualifying,n_generic_numbers_excluded
+Washington,phone_key_upstream (PRIMARY),2,164,3457,4.7,
+Washington,phone_key_upstream (PRIMARY),3,50,3457,1.4,
+Washington,phone_key_upstream (PRIMARY),4,20,3457,0.6,
+Washington,phone_key_upstream (PRIMARY),5,0,3457,0.0,
+Washington,phone_digits_only_no_upstream_exclusion (SENSITIVITY),2,167,3457,4.8,
+Washington,phone_digits_only_no_upstream_exclusion (SENSITIVITY),3,53,3457,1.5,
+Washington,phone_digits_only_no_upstream_exclusion (SENSITIVITY),4,20,3457,0.6,
+Washington,phone_digits_only_no_upstream_exclusion (SENSITIVITY),5,0,3457,0.0,
+Washington,address_strict,2,2,3457,0.1,
+Washington,address_strict,3,0,3457,0.0,
+Washington,address_strict,4,0,3457,0.0,
+Washington,address_strict,5,0,3457,0.0,
+Washington,address_lenient,2,8,3457,0.2,
+Washington,address_lenient,3,0,3457,0.0,
+Washington,address_lenient,4,0,3457,0.0,
+Washington,address_lenient,5,0,3457,0.0,
+Washington,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",2,167,3457,4.8,0
+Washington,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",3,53,3457,1.5,0
+Washington,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",4,20,3457,0.6,0
+Washington,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",5,0,3457,0.0,0
+Washington,phone_digits_only_cleaned (SENSITIVITY),2,167,3457,4.8,
+Washington,phone_digits_only_cleaned (SENSITIVITY),3,53,3457,1.5,
+Washington,phone_digits_only_cleaned (SENSITIVITY),4,20,3457,0.6,
+Washington,phone_digits_only_cleaned (SENSITIVITY),5,0,3457,0.0,
+Oregon,phone_key_upstream (PRIMARY),2,101,792,12.8,
+Oregon,phone_key_upstream (PRIMARY),3,5,792,0.6,
+Oregon,phone_key_upstream (PRIMARY),4,5,792,0.6,
+Oregon,phone_key_upstream (PRIMARY),5,5,792,0.6,
+Oregon,phone_digits_only_no_upstream_exclusion (SENSITIVITY),2,101,792,12.8,
+Oregon,phone_digits_only_no_upstream_exclusion (SENSITIVITY),3,5,792,0.6,
+Oregon,phone_digits_only_no_upstream_exclusion (SENSITIVITY),4,5,792,0.6,
+Oregon,phone_digits_only_no_upstream_exclusion (SENSITIVITY),5,5,792,0.6,
+Oregon,address_strict,2,59,792,7.4,
+Oregon,address_strict,3,3,792,0.4,
+Oregon,address_strict,4,0,792,0.0,
+Oregon,address_strict,5,0,792,0.0,
+Oregon,address_lenient,2,71,792,9.0,
+Oregon,address_lenient,3,3,792,0.4,
+Oregon,address_lenient,4,0,792,0.0,
+Oregon,address_lenient,5,0,792,0.0,
+Oregon,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",2,101,792,12.8,0
+Oregon,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",3,5,792,0.6,0
+Oregon,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",4,5,792,0.6,0
+Oregon,"phone_digits_only_excl_generic (SENSITIVITY - independent >=4-city heuristic, not the upstream exclusion)",5,5,792,0.6,0
+Oregon,phone_digits_only_cleaned (SENSITIVITY),2,101,792,12.8,
+Oregon,phone_digits_only_cleaned (SENSITIVITY),3,5,792,0.6,
+Oregon,phone_digits_only_cleaned (SENSITIVITY),4,5,792,0.6,
+Oregon,phone_digits_only_cleaned (SENSITIVITY),5,5,792,0.6,

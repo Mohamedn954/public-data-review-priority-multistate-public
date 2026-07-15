@@ -1,0 +1,37 @@
+state,outcome,record_filter,stratum,a_clustered_event,b_clustered_noevent,c_nonclustered_event,d_nonclustered_noevent,n_clustered,n_nonclustered
+Washington,n_enforcement,All facilities,CRUDE (all strata pooled),11,153,154,3139,164,3293
+Washington,n_enforcement,All facilities,King,8,87,73,1627,95,1700
+Washington,n_enforcement,All facilities,Pierce,3,44,58,947,47,1005
+Washington,n_enforcement,All facilities,Spokane,0,22,23,565,22,588
+Oregon,n_enforcement,All facilities,CRUDE (all strata pooled),35,66,114,577,101,691
+Oregon,n_enforcement,All facilities,AFH,0,22,66,541,22,607
+Oregon,n_enforcement,All facilities,ALF,13,20,17,10,33,27
+Oregon,n_enforcement,All facilities,NF,1,2,8,11,3,19
+Oregon,n_enforcement,All facilities,RCF,21,22,23,15,43,38
+Washington,n_investigations,All facilities,CRUDE (all strata pooled),28,136,558,2735,164,3293
+Washington,n_investigations,All facilities,King,16,79,282,1418,95,1700
+Washington,n_investigations,All facilities,Pierce,10,37,180,825,47,1005
+Washington,n_investigations,All facilities,Spokane,2,20,96,492,22,588
+Oregon,n_investigations,All facilities,CRUDE (all strata pooled),55,46,166,525,101,691
+Oregon,n_investigations,All facilities,AFH,8,14,117,490,22,607
+Oregon,n_investigations,All facilities,ALF,19,14,15,12,33,27
+Oregon,n_investigations,All facilities,NF,1,2,12,7,3,19
+Oregon,n_investigations,All facilities,RCF,27,16,22,16,43,38
+Washington,n_enforcement,Excl. facilities with no public record (n_docs_total>0),CRUDE (all strata pooled),11,107,154,1898,118,2052
+Washington,n_enforcement,Excl. facilities with no public record (n_docs_total>0),King,8,57,73,918,65,991
+Washington,n_enforcement,Excl. facilities with no public record (n_docs_total>0),Pierce,3,33,58,594,36,652
+Washington,n_enforcement,Excl. facilities with no public record (n_docs_total>0),Spokane,0,17,23,386,17,409
+Oregon,n_enforcement,Excl. facilities with no public record (n_docs_total>0),CRUDE (all strata pooled),35,64,114,461,99,575
+Oregon,n_enforcement,Excl. facilities with no public record (n_docs_total>0),AFH,0,20,66,427,20,493
+Oregon,n_enforcement,Excl. facilities with no public record (n_docs_total>0),ALF,13,20,17,9,33,26
+Oregon,n_enforcement,Excl. facilities with no public record (n_docs_total>0),NF,1,2,8,11,3,19
+Oregon,n_enforcement,Excl. facilities with no public record (n_docs_total>0),RCF,21,22,23,14,43,37
+Washington,n_investigations,Excl. facilities with no public record (n_docs_total>0),CRUDE (all strata pooled),28,90,558,1494,118,2052
+Washington,n_investigations,Excl. facilities with no public record (n_docs_total>0),King,16,49,282,709,65,991
+Washington,n_investigations,Excl. facilities with no public record (n_docs_total>0),Pierce,10,26,180,472,36,652
+Washington,n_investigations,Excl. facilities with no public record (n_docs_total>0),Spokane,2,15,96,313,17,409
+Oregon,n_investigations,Excl. facilities with no public record (n_docs_total>0),CRUDE (all strata pooled),55,44,166,409,99,575
+Oregon,n_investigations,Excl. facilities with no public record (n_docs_total>0),AFH,8,12,117,376,20,493
+Oregon,n_investigations,Excl. facilities with no public record (n_docs_total>0),ALF,19,14,15,11,33,26
+Oregon,n_investigations,Excl. facilities with no public record (n_docs_total>0),NF,1,2,12,7,3,19
+Oregon,n_investigations,Excl. facilities with no public record (n_docs_total>0),RCF,27,16,22,15,43,37
